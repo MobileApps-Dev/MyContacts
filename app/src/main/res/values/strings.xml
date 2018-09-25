@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="facebook_app_id">2257726521121506</string>
+    <!--<string name="fb_login_protocol_scheme">fb2257726521121506</string>-->
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+
+    <string name="label_search">Search</string>
+    <string name="label_multiple_numbers">Multiple numbers</string>
+</resources>
